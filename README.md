@@ -208,18 +208,49 @@ const selman = {
 
 <br/>
 
-<!-- GITHUB STATS -->
+<!-- METRICS -->
 <div align="center">
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> &nbsp;Coding Activity
+## 📈 &nbsp;By The Numbers
 
 <br/>
 
-<img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=altinayselman&theme=radical&hide_border=true&background=0D1117&ring=ff6b6b&fire=f368e0&currStreakLabel=ff6b6b&sideLabels=c9d1d9&currStreakNum=f368e0&sideNums=c9d1d9&dates=636e72" />
-
+<table>
+<tr>
+<td align="center" width="25%">
+<br/>
+<img src="https://img.icons8.com/3d-fluency/94/rocket.png" width="44"/>
 <br/><br/>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=altinayselman&bg_color=0d1117&color=f368e0&line=ff6b6b&point=6c5ce7&area=true&area_color=ff6b6b&hide_border=true&custom_title=Contribution%20Activity" />
+<b style="font-size:24px">500+</b>
+<br/><sub><b>Projects Delivered</b></sub>
+<br/><br/>
+</td>
+<td align="center" width="25%">
+<br/>
+<img src="https://img.icons8.com/3d-fluency/94/calendar.png" width="44"/>
+<br/><br/>
+<b style="font-size:24px">12+</b>
+<br/><sub><b>Years Experience</b></sub>
+<br/><br/>
+</td>
+<td align="center" width="25%">
+<br/>
+<img src="https://img.icons8.com/3d-fluency/94/globe.png" width="44"/>
+<br/><br/>
+<b style="font-size:24px">10+</b>
+<br/><sub><b>Countries Served</b></sub>
+<br/><br/>
+</td>
+<td align="center" width="25%">
+<br/>
+<img src="https://img.icons8.com/3d-fluency/94/groups.png" width="44"/>
+<br/><br/>
+<b style="font-size:24px">200+</b>
+<br/><sub><b>Students Trained</b></sub>
+<br/><br/>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -294,20 +325,6 @@ const selman = {
 
 <br/>
 
-<!-- TROPHY -->
-<div align="center">
-
-## 🏆 &nbsp;GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=altinayselman&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4" width="70%" />
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
 
 <!-- CONNECT -->
 <div align="center">
