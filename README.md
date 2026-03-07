@@ -1,243 +1,271 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Selman%20Altınay&fontSize=52&fontColor=58a6ff&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20CTO%20%7C%20Founder&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+<!-- ANIMATED GRADIENT HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff6b6b,20:ee5a24,40:f368e0,60:6c5ce7,80:0abde3,100:10ac84&height=250&section=header&text=Selman%20Altınay&fontSize=60&fontColor=ffffff&fontAlignY=32&desc=Full-Stack%20Engineer%20%E2%9C%A6%20CTO%20%E2%9C%A6%20Founder&descSize=20&descColor=ffffff&descAlignY=52&animation=twinkling&stroke=ffffff&strokeWidth=1" width="100%" />
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+enterprise+software+that+scales+%F0%9F%9A%80;8%2B+years+%7C+Hundreds+of+projects+%7C+EU+%26+US+clients;From+concept+to+production+%E2%80%94+I+ship+what+matters." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=110&lines=%F0%9F%9A%80+Building+enterprise+software+that+scales;%F0%9F%92%BC+8%2B+years+%7C+Hundreds+of+projects+delivered;%F0%9F%8C%8D+Serving+clients+across+EU+%26+US" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- BADGES -->
-[![Website](https://img.shields.io/badge/ruicodex.com-000?style=flat-square&logo=safari&logoColor=58a6ff)](https://ruicodex.com)
+<!-- SOCIAL BADGES - COLORFUL -->
+<a href="https://ruicodex.com"><img src="https://img.shields.io/badge/%F0%9F%8C%90_ruicodex.com-FF6B6B?style=for-the-badge&logoColor=white" /></a>
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/selman-a-23ab38140/)
+<a href="https://www.linkedin.com/in/selman-a-23ab38140/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 &nbsp;
-[![Email](https://img.shields.io/badge/info@ruicodex.com-000?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:info@ruicodex.com)
+<a href="mailto:info@ruicodex.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 &nbsp;
-![Views](https://komarev.com/ghpvc/?username=altinayselman&style=flat-square&color=161b22&label=Profile+Views)
+<img src="https://komarev.com/ghpvc/?username=altinayselman&style=for-the-badge&color=6c5ce7&label=VISITORS" />
+
+<br/><br/>
+
+<!-- QUICK INFO CARDS -->
+<img src="https://img.shields.io/badge/📍_Brussels,_BE_·_Istanbul,_TR-2d3436?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🏢_Founder_@_Rui_Codex-6c5ce7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🗣️_EN_·_NL_·_TR-00b894?style=for-the-badge" />
 
 </div>
 
 <br/>
 
-<!-- ABOUT SECTION -->
-## `> whoami`
-
-```ts
-const selman = {
-  location:    "Brussels, BE  ·  Istanbul, TR",
-  company:     "Rui Codex — Founder & CEO",
-  roles:       ["CTO @ MarQi Blinds", "Director @ Pointix", "Team Lead @ Payolog"],
-  experience:  "8+ years · Hundreds of shipped projects",
-  languages:   ["English", "Dutch", "Turkish"],
-  motto:       "I don't just write code — I engineer solutions that create impact."
-};
-```
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
-> I build **production-grade systems** for startups, SMEs, and enterprises across the EU & US.  
-> From ERP platforms to FinTech solutions, from AI-powered workflows to real-time dashboards —  
-> **if it needs to scale, I've probably built it.**
+<!-- ABOUT ME -->
+<div align="center">
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
+
+</div>
+
+```javascript
+const selman = {
+  title:       "Full-Stack Software Engineer & CTO",
+  company:     "Rui Codex — Enterprise Software Engineering",
+  roles:       ["CTO @ MarQi Blinds 🇺🇸", "Director @ Pointix", "Team Lead @ Payolog"],
+  experience:  "8+ years · Hundreds of shipped projects",
+  education:   ["Marmara Uni (CS)", "National Defence Uni (IE)", "Istanbul Uni (MIS)"],
+  superpower:  "Turning complex business problems into elegant, scalable software",
+};
+```
+
+<div align="center">
+
+> *"I don't just write code — I engineer solutions that solve real problems and create measurable impact."*
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+</div>
 
 <br/>
 
 <!-- TECH STACK -->
-## `> tech_stack`
+<div align="center">
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Arsenal
+
+</div>
+
+<div align="center">
+
+### 🔷 Languages
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### 🟣 Backend & Frameworks
+![.NET](https://img.shields.io/badge/.NET_9-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![REST](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### 🟢 Frontend & UI
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+
+### 🔶 Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+### 🔵 DevOps & Cloud
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+### 🟡 Tools & Automation
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor_AI-000?style=for-the-badge&logo=cursor&logoColor=white)
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- SERVICES -->
+<div align="center">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;What I Build
+
+</div>
+
+<div align="center">
 <table>
 <tr>
-<td width="50%" valign="top">
-
-<h3 align="center">Backend & Systems</h3>
-
-<div align="center">
-
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=fff)
-![.NET](https://img.shields.io/badge/.NET_9-512BD4?style=flat-square&logo=dotnet&logoColor=fff)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=fff)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=fff)
-![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=fff)
-![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=fff)
-![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=fff)
-![REST](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=fff)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=fff)
-
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">Frontend & UI</h3>
-
-<div align="center">
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=fff)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=fff)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=000)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=fff)
-
-</div>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">Data & Storage</h3>
-
-<div align="center">
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=fff)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=fff)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=fff)
-![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=fff)
-
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">DevOps & Cloud</h3>
-
-<div align="center">
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=fff)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
-![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=githubactions&logoColor=fff)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=fff)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=fff)
-![Temporal](https://img.shields.io/badge/Temporal-000?style=flat-square&logo=temporal&logoColor=fff)
-
-</div>
-
-</td>
-</tr>
-</table>
-
+<td align="center" width="33%">
 <br/>
-
-<!-- WHAT I DO -->
-## `> services`
-
-<table>
-<tr>
-<td width="33%" align="center">
-<br/>
-<img src="https://img.icons8.com/fluency/48/000000/source-code.png" width="36"/>
+<img src="https://img.icons8.com/3d-fluency/94/code.png" width="50"/>
 <br/><br/>
-<strong>Enterprise Platforms</strong>
-<br/>
-<sub>Full-stack .NET & Node.js systems<br/>Admin panels · RBAC · Real-time</sub>
+<b>Enterprise Platforms</b>
+<br/><sub>Full-stack .NET & Node.js</sub>
+<br/><sub>Admin panels · RBAC · Dashboards</sub>
 <br/><br/>
 </td>
-<td width="33%" align="center">
+<td align="center" width="33%">
 <br/>
-<img src="https://img.icons8.com/fluency/48/000000/artificial-intelligence.png" width="36"/>
+<img src="https://img.icons8.com/3d-fluency/94/robot-2.png" width="50"/>
 <br/><br/>
-<strong>AI & Automation</strong>
-<br/>
-<sub>n8n workflows · AI integration<br/>Smart content · Decision systems</sub>
+<b>AI & Automation</b>
+<br/><sub>n8n workflows · AI integration</sub>
+<br/><sub>Smart content & decision systems</sub>
 <br/><br/>
 </td>
-<td width="33%" align="center">
+<td align="center" width="33%">
 <br/>
-<img src="https://img.icons8.com/fluency/48/000000/shield-done.png" width="36"/>
+<img src="https://img.icons8.com/3d-fluency/94/lock-2.png" width="50"/>
 <br/><br/>
-<strong>Secure API Design</strong>
-<br/>
-<sub>REST & GraphQL · Auth · Rate limiting<br/>CSP headers · Encryption</sub>
+<b>Secure API Design</b>
+<br/><sub>REST & GraphQL · Auth · Rate limiting</sub>
+<br/><sub>CSP headers · Encryption</sub>
 <br/><br/>
 </td>
 </tr>
 <tr>
-<td width="33%" align="center">
+<td align="center" width="33%">
 <br/>
-<img src="https://img.icons8.com/fluency/48/000000/combo-chart.png" width="36"/>
+<img src="https://img.icons8.com/3d-fluency/94/bar-chart.png" width="50"/>
 <br/><br/>
-<strong>Analytics & Monitoring</strong>
-<br/>
-<sub>Real-time dashboards · KPI tracking<br/>Performance metrics · Alerts</sub>
-<br/><br/>
-</td>
-<td width="33%" align="center">
-<br/>
-<img src="https://img.icons8.com/fluency/48/000000/module.png" width="36"/>
-<br/><br/>
-<strong>ERP & Business Systems</strong>
-<br/>
-<sub>Custom ERP from scratch<br/>HR · Inventory · Finance modules</sub>
+<b>Analytics & Monitoring</b>
+<br/><sub>Real-time dashboards · KPI tracking</sub>
+<br/><sub>Performance metrics · Alerts</sub>
 <br/><br/>
 </td>
-<td width="33%" align="center">
+<td align="center" width="33%">
 <br/>
-<img src="https://img.icons8.com/fluency/48/000000/cloud-development.png" width="36"/>
+<img src="https://img.icons8.com/3d-fluency/94/settings.png" width="50"/>
 <br/><br/>
-<strong>DevOps & CI/CD</strong>
+<b>ERP & Business Systems</b>
+<br/><sub>Custom ERP from scratch</sub>
+<br/><sub>HR · Inventory · Finance modules</sub>
+<br/><br/>
+</td>
+<td align="center" width="33%">
 <br/>
-<sub>Docker · Azure · GitHub Actions<br/>Zero-downtime · Auto-scaling</sub>
+<img src="https://img.icons8.com/3d-fluency/94/cloud.png" width="50"/>
+<br/><br/>
+<b>DevOps & CI/CD</b>
+<br/><sub>Docker · Azure · GitHub Actions</sub>
+<br/><sub>Zero-downtime · Auto-scaling</sub>
 <br/><br/>
 </td>
 </tr>
 </table>
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
 <!-- GITHUB STATS -->
-## `> stats`
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=altinayselman&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&ring_color=58a6ff&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=altinayselman&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> &nbsp;GitHub Analytics
+
+<br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=altinayselman&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9&icon_color=f368e0" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=altinayselman&theme=radical&hide_border=true&background=0D1117&ring=ff6b6b&fire=f368e0&currStreakLabel=ff6b6b&sideLabels=c9d1d9&currStreakNum=f368e0&sideNums=c9d1d9&dates=636e72" />
+
+<br/><br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altinayselman&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9" />
+
+<br/><br/>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=altinayselman&bg_color=0d1117&color=f368e0&line=ff6b6b&point=6c5ce7&area=true&area_color=ff6b6b&hide_border=true&custom_title=Contribution%20Activity" />
 
 </div>
 
 <br/>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- EXPERIENCE -->
 <div align="center">
-<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=altinayselman&bg_color=0d1117&color=58a6ff&line=58a6ff&point=8b949e&area=true&area_color=58a6ff&hide_border=true" />
+
+## 💼 &nbsp;Career Journey
+
+</div>
+
+<div align="center">
+
+| Year | Role | Company | Focus |
+|:----:|:-----|:--------|:------|
+| 🟣 **2024** | **Founder & CEO** | **Rui Codex** 🇧🇪 | Enterprise software for EU clients |
+| 🔴 **2023** | **Team Lead** | **Payolog** | FinTech solutions & architecture |
+| 🟠 **2022** | **CTO** | **MarQi Blinds** 🇺🇸 | Smart blinds tech, scalable systems |
+| 🟡 **2022** | **Director** | **Pointix Bilisim** | Multi-industry software development |
+| 🟢 **2021** | **Sr. Developer** | **iXiredu** | E-learning platform (ASP.NET Core) |
+| 🔵 **2017** | **Full Stack Dev** | **Star Grup** | ERP, HR, inventory & cost systems |
+
 </div>
 
 <br/>
 
-<!-- EXPERIENCE TIMELINE -->
-## `> experience`
-
-```
-2024 ─────── Founder & CEO @ Rui Codex            ─── Enterprise software for EU clients
-2022 ─────── CTO @ MarQi Blinds (US)              ─── Smart blinds tech, scalable systems
-2023 ─────── Team Lead @ Payolog                   ─── FinTech solutions & architecture
-2022 ─────── Director @ Pointix Bilişim            ─── Multi-industry software development
-2021 ─────── Sr. Developer @ iXiredu               ─── E-learning platform (ASP.NET Core)
-2017 ─────── Full Stack Developer @ Star Grup      ─── ERP, HR, inventory & cost systems
-```
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
 <!-- EDUCATION -->
-## `> education`
-
 <div align="center">
 
-|  | University | Degree |
+## 🎓 &nbsp;Education
+
+| | University | Degree |
 |:---:|:---|:---|
 | 🎓 | **Marmara University** | Computer Software Engineering |
 | 🎖️ | **National Defence University** | Industrial Engineering |
@@ -248,45 +276,70 @@ const selman = {
 <br/>
 
 <!-- CERTIFICATIONS -->
-## `> certifications`
-
 <div align="center">
 
-![freeCodeCamp](https://img.shields.io/badge/Data_Analysis_with_Python-0A0A23?style=flat-square&logo=freecodecamp&logoColor=fff)
-![freeCodeCamp](https://img.shields.io/badge/Data_Visualization-0A0A23?style=flat-square&logo=freecodecamp&logoColor=fff)
-![freeCodeCamp](https://img.shields.io/badge/Machine_Learning_with_Python-0A0A23?style=flat-square&logo=freecodecamp&logoColor=fff)
-![freeCodeCamp](https://img.shields.io/badge/Front_End_Libraries-0A0A23?style=flat-square&logo=freecodecamp&logoColor=fff)
-![freeCodeCamp](https://img.shields.io/badge/JS_Algorithms_%26_Data_Structures-0A0A23?style=flat-square&logo=freecodecamp&logoColor=fff)
-![freeCodeCamp](https://img.shields.io/badge/Responsive_Web_Design-0A0A23?style=flat-square&logo=freecodecamp&logoColor=fff)
-![freeCodeCamp](https://img.shields.io/badge/Scientific_Computing_with_Python-0A0A23?style=flat-square&logo=freecodecamp&logoColor=fff)
-![Microsoft](https://img.shields.io/badge/Microsoft_Software_Developer-5E5E5E?style=flat-square&logo=microsoft&logoColor=fff)
-![ISO](https://img.shields.io/badge/ISO_27001_Information_Security-2563EB?style=flat-square&logo=iso&logoColor=fff)
-![SEO](https://img.shields.io/badge/Search_Engine_Optimization-47A248?style=flat-square&logo=google&logoColor=fff)
+## 📜 &nbsp;Certifications
+
+![](https://img.shields.io/badge/freeCodeCamp-Data_Analysis_with_Python-0A0A23?style=for-the-badge&logo=freecodecamp)
+![](https://img.shields.io/badge/freeCodeCamp-Data_Visualization-0A0A23?style=for-the-badge&logo=freecodecamp)
+![](https://img.shields.io/badge/freeCodeCamp-Machine_Learning-0A0A23?style=for-the-badge&logo=freecodecamp)
+![](https://img.shields.io/badge/freeCodeCamp-Front_End_Libraries-0A0A23?style=for-the-badge&logo=freecodecamp)
+![](https://img.shields.io/badge/freeCodeCamp-JS_Algorithms-0A0A23?style=for-the-badge&logo=freecodecamp)
+![](https://img.shields.io/badge/freeCodeCamp-Responsive_Design-0A0A23?style=for-the-badge&logo=freecodecamp)
+![](https://img.shields.io/badge/freeCodeCamp-Scientific_Computing-0A0A23?style=for-the-badge&logo=freecodecamp)
+![](https://img.shields.io/badge/Microsoft-Software_Developer-5C2D91?style=for-the-badge&logo=microsoft)
+![](https://img.shields.io/badge/ISO-27001_Info_Security-2563EB?style=for-the-badge&logo=iso)
+![](https://img.shields.io/badge/Google-SEO_Optimization-34A853?style=for-the-badge&logo=google)
 
 </div>
 
 <br/>
 
-<!-- CONNECT -->
-## `> connect`
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<br/>
+
+<!-- TROPHY -->
 <div align="center">
 
+## 🏆 &nbsp;GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=altinayselman&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" width="100%" />
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- CONNECT -->
+<div align="center">
+
+## 🤝 &nbsp;Let's Work Together
+
+<br/>
+
+I'm always open to **new projects**, **consulting**, and **collaborations**.
+
+<br/>
+
 <a href="mailto:info@ruicodex.com">
-  <img src="https://img.shields.io/badge/Email_Me-info@ruicodex.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/📧_Hire_Me-FF6B6B?style=for-the-badge&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://ruicodex.com">
-  <img src="https://img.shields.io/badge/Visit-ruicodex.com-0d1117?style=for-the-badge&logo=safari&logoColor=58a6ff&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🌐_ruicodex.com-6c5ce7?style=for-the-badge&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://ruicodex.com/Contact">
-  <img src="https://img.shields.io/badge/Request_a-Quote-0d1117?style=for-the-badge&logo=handshake&logoColor=3fb950&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/💼_Request_Quote-00b894?style=for-the-badge&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<sub>Most of my work lives in **private repositories** under NDA. What you see here is a fraction of what I build.</sub>
+<sub>⚡ Most of my work lives in <b>private repositories</b> under NDA. What you see here is a fraction of what I build every day.</sub>
 
 <br/><br/>
 
@@ -294,10 +347,12 @@ const selman = {
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/altinayselman/altinayselman/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/altinayselman/altinayselman/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/altinayselman/altinayselman/output/github-snake-dark.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/altinayselman/altinayselman/output/github-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
 
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" width="100%" />
+<br/>
+
+<!-- COLORFUL FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,20:ee5a24,40:f368e0,60:6c5ce7,80:0abde3,100:10ac84&height=150&section=footer&animation=twinkling" width="100%" />
