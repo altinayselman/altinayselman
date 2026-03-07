@@ -5,7 +5,7 @@
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=110&lines=%F0%9F%9A%80+Building+enterprise+software+that+scales;%F0%9F%92%BC+8%2B+years+%7C+Hundreds+of+projects+delivered;%F0%9F%8C%8D+Serving+clients+across+EU+%26+US" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=110&lines=%F0%9F%9A%80+Building+enterprise+software+that+scales;%F0%9F%92%BC+12%2B+years+%7C+Hundreds+of+projects+delivered;%F0%9F%8C%8D+Serving+clients+across+EU+%26+US" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -47,7 +47,7 @@ const selman = {
   title:       "Full-Stack Software Engineer & CTO",
   company:     "Rui Codex — Enterprise Software Engineering",
   roles:       ["CTO @ MarQi Blinds 🇺🇸", "Director @ Pointix", "Team Lead @ Payolog"],
-  experience:  "8+ years · Hundreds of shipped projects",
+  experience:  "12+ years · Hundreds of shipped projects",
   education:   ["Marmara Uni (CS)", "National Defence Uni (IE)", "Istanbul Uni (MIS)"],
   superpower:  "Turning complex business problems into elegant, scalable software",
 };
