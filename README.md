@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED GRADIENT HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff6b6b,20:ee5a24,40:f368e0,60:6c5ce7,80:0abde3,100:10ac84&height=250&section=header&text=Selman%20Altınay&fontSize=60&fontColor=ffffff&fontAlignY=32&desc=Full-Stack%20Engineer%20%E2%9C%A6%20CTO%20%E2%9C%A6%20Founder&descSize=20&descColor=ffffff&descAlignY=52&animation=twinkling&stroke=ffffff&strokeWidth=1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,25:ee5a24,50:f368e0,75:6c5ce7,100:0abde3&height=230&section=header&text=Selman%20Alt%C4%B1nay&fontSize=55&fontColor=ffffff&fontAlignY=34&desc=Full-Stack%20Engineer%20%E2%80%A2%20CTO%20%E2%80%A2%20Founder&descSize=20&descColor=ffffffaa&descAlignY=54&animation=fadeIn" width="100%" />
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
@@ -215,12 +215,7 @@ const selman = {
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=altinayselman&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9&icon_color=f368e0" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=altinayselman&theme=radical&hide_border=true&background=0D1117&ring=ff6b6b&fire=f368e0&currStreakLabel=ff6b6b&sideLabels=c9d1d9&currStreakNum=f368e0&sideNums=c9d1d9&dates=636e72" />
-
-<br/><br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altinayselman&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9" />
+<img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=altinayselman&theme=radical&hide_border=true&background=0D1117&ring=ff6b6b&fire=f368e0&currStreakLabel=ff6b6b&sideLabels=c9d1d9&currStreakNum=f368e0&sideNums=c9d1d9&dates=636e72" />
 
 <br/><br/>
 
@@ -304,7 +299,7 @@ const selman = {
 
 ## 🏆 &nbsp;GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=altinayselman&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=altinayselman&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4" width="70%" />
 
 </div>
 
@@ -355,4 +350,4 @@ I'm always open to **new projects**, **consulting**, and **collaborations**.
 <br/>
 
 <!-- COLORFUL FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,20:ee5a24,40:f368e0,60:6c5ce7,80:0abde3,100:10ac84&height=150&section=footer&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,25:ee5a24,50:f368e0,75:6c5ce7,100:0abde3&height=150&section=footer&animation=fadeIn" width="100%" />
