@@ -243,7 +243,7 @@ const selman = {
 </td>
 <td align="center" width="25%">
 <br/>
-<img src="https://img.icons8.com/3d-fluency/94/student-center.png" width="44"/>
+<img src="https://img.icons8.com/3d-fluency/94/classroom.png" width="44"/>
 <br/><br/>
 <b style="font-size:24px">200+</b>
 <br/><sub><b>Students Trained</b></sub>
