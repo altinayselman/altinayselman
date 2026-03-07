@@ -211,7 +211,7 @@ const selman = {
 <!-- GITHUB STATS -->
 <div align="center">
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> &nbsp;GitHub Analytics
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> &nbsp;Coding Activity
 
 <br/>
 
