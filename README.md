@@ -182,7 +182,7 @@ const selman = {
 </td>
 <td align="center" width="33%">
 <br/>
-<img src="https://img.icons8.com/3d-fluency/94/settings.png" width="50"/>
+<img src="https://img.icons8.com/3d-fluency/94/workflow.png" width="50"/>
 <br/><br/>
 <b>ERP & Business Systems</b>
 <br/><sub>Custom ERP from scratch</sub>
