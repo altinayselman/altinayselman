@@ -1,370 +1,252 @@
 <div align="center">
 
-<!-- ANIMATED GRADIENT HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,25:ee5a24,50:f368e0,75:6c5ce7,100:0abde3&height=230&section=header&text=Selman%20Alt%C4%B1nay&fontSize=55&fontColor=ffffff&fontAlignY=34&desc=Full-Stack%20Engineer%20%E2%80%A2%20CTO%20%E2%80%A2%20Founder&descSize=20&descColor=ffffffaa&descAlignY=54&animation=fadeIn" width="100%" />
-
-<!-- TYPING SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=110&lines=%F0%9F%9A%80+Building+enterprise+software+that+scales;%F0%9F%92%BC+12%2B+years+%7C+Hundreds+of+projects+delivered;%F0%9F%8C%8D+Serving+clients+across+EU+%26+US" alt="Typing SVG" />
+<a href="https://ruicodex.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="docs/media/banner.svg">
+    <img src="docs/media/banner.svg" alt="Selman Altinay - Full-stack engineer, founder of Rui Codex" width="100%">
+  </picture>
 </a>
 
-<br/>
+### I turn complex business problems into software that ships, and then I keep it running.
 
-<!-- SOCIAL BADGES - COLORFUL -->
-<a href="https://ruicodex.com"><img src="https://img.shields.io/badge/%F0%9F%8C%90_ruicodex.com-FF6B6B?style=for-the-badge&logoColor=white" /></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/selman-a-23ab38140/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-&nbsp;
-<a href="mailto:info@ruicodex.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=altinayselman&style=for-the-badge&color=6c5ce7&label=VISITORS" />
+<img src="docs/media/badges/role.svg" alt="Founder: Rui Codex" height="22"> <img src="docs/media/badges/location.svg" alt="Based in Belgium" height="22"> <img src="docs/media/badges/experience.svg" alt="Experience: 12+ years" height="22"> <img src="docs/media/badges/languages.svg" alt="Speaks English, Dutch and Turkish" height="22"> <a href="https://play.google.com/store/apps/dev?id=6565660224420086428"><img src="docs/media/badges/google-play.svg" alt="Google Play: 39 apps and games" height="22"></a>
 
-<br/><br/>
-
-<!-- QUICK INFO CARDS -->
-<img src="https://img.shields.io/badge/📍_Brussels,_BE_·_Istanbul,_TR-2d3436?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🏢_Founder_@_Rui_Codex-6c5ce7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🗣️_EN_·_NL_·_TR-00b894?style=for-the-badge" />
+**[ruicodex.com](https://ruicodex.com)** · **[LinkedIn](https://www.linkedin.com/in/selman-a-23ab38140/)** · **[Google Play](https://play.google.com/store/apps/dev?id=6565660224420086428)** · **[App Store](https://apps.apple.com/us/developer/selman-altinay/id1895496718)** · **[Watch the showreel](https://github.com/altinayselman/altinayselman/blob/main/docs/media/selman-altinay-showreel.mp4)**
 
 </div>
 
-<br/>
+<br>
 
-<!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- ABOUT ME -->
 <div align="center">
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
+<a href="https://github.com/altinayselman/altinayselman/blob/main/docs/media/selman-altinay-showreel.mp4">
+  <img src="docs/media/film-preview.gif" alt="Showreel preview: Selman builds software, he ships it, and he keeps it running, over real app recordings on phones" width="88%">
+</a>
+
+<sub><b>&#9654; Watch the 40-second showreel</b> (with sound): real screen recordings of the apps and games I build at Rui Codex, and ruicodex.com.</sub>
 
 </div>
+
+<br>
+
+## About me
 
 ```javascript
 const selman = {
   title:       "Full-Stack Software Engineer & CTO",
-  company:     "Rui Codex — Enterprise Software Engineering",
-  roles:       ["CTO @ MarQi Blinds 🇺🇸", "Director @ Pointix", "Team Lead @ Payolog"],
+  company:     "Rui Codex, software engineering studio in Belgium",
+  roles:       ["CTO @ MarQi Blinds", "Director @ Pointix", "Team Lead @ Payolog"],
   experience:  "12+ years · Hundreds of shipped projects",
   education:   ["Marmara Uni (CS)", "National Defence Uni (IE)", "Istanbul Uni (MIS)"],
+  languages:   ["English", "Nederlands", "Türkçe"],
   superpower:  "Turning complex business problems into elegant, scalable software",
 };
 ```
 
+> *"I don't just write code. I engineer solutions that solve real problems and create measurable impact."*
+
 <div align="center">
-
-> *"I don't just write code — I engineer solutions that solve real problems and create measurable impact."*
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
+  <img src="docs/media/stats.svg" alt="12+ years building software, 39 apps and games on Google Play, 10+ countries served, 200+ students trained, 3 universities" width="100%">
 </div>
 
-<br/>
-
-<!-- TECH STACK -->
-<div align="center">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Arsenal
-
-</div>
-
-<div align="center">
-
-### 🔷 Languages
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### 🟣 Backend & Frameworks
-![.NET](https://img.shields.io/badge/.NET_9-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
-![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![REST](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### 🟢 Frontend & UI
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
-
-### 🔶 Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
-### 🔵 DevOps & Cloud
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
-### 🟡 Tools & Automation
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor_AI-000?style=for-the-badge&logo=cursor&logoColor=white)
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- SERVICES -->
-<div align="center">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;What I Build
-
-</div>
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="33%">
-<br/>
-<img src="https://img.icons8.com/3d-fluency/94/code.png" width="50"/>
-<br/><br/>
-<b>Enterprise Platforms</b>
-<br/><sub>Full-stack .NET & Node.js</sub>
-<br/><sub>Admin panels · RBAC · Dashboards</sub>
-<br/><br/>
-</td>
-<td align="center" width="33%">
-<br/>
-<img src="https://img.icons8.com/3d-fluency/94/robot-2.png" width="50"/>
-<br/><br/>
-<b>AI & Automation</b>
-<br/><sub>n8n workflows · AI integration</sub>
-<br/><sub>Smart content & decision systems</sub>
-<br/><br/>
-</td>
-<td align="center" width="33%">
-<br/>
-<img src="https://img.icons8.com/3d-fluency/94/lock-2.png" width="50"/>
-<br/><br/>
-<b>Secure API Design</b>
-<br/><sub>REST & GraphQL · Auth · Rate limiting</sub>
-<br/><sub>CSP headers · Encryption</sub>
-<br/><br/>
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-<br/>
-<img src="https://img.icons8.com/3d-fluency/94/bar-chart.png" width="50"/>
-<br/><br/>
-<b>Analytics & Monitoring</b>
-<br/><sub>Real-time dashboards · KPI tracking</sub>
-<br/><sub>Performance metrics · Alerts</sub>
-<br/><br/>
-</td>
-<td align="center" width="33%">
-<br/>
-<img src="https://img.icons8.com/3d-fluency/94/workflow.png" width="50"/>
-<br/><br/>
-<b>ERP & Business Systems</b>
-<br/><sub>Custom ERP from scratch</sub>
-<br/><sub>HR · Inventory · Finance modules</sub>
-<br/><br/>
-</td>
-<td align="center" width="33%">
-<br/>
-<img src="https://img.icons8.com/3d-fluency/94/cloud.png" width="50"/>
-<br/><br/>
-<b>DevOps & CI/CD</b>
-<br/><sub>Docker · Azure · GitHub Actions</sub>
-<br/><sub>Zero-downtime · Auto-scaling</sub>
-<br/><br/>
-</td>
-</tr>
-</table>
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- METRICS -->
-<div align="center">
-
-## 📈 &nbsp;By The Numbers
-
-<br/>
+## What I build
 
 <table>
-<tr>
-<td align="center" width="25%">
-<br/>
-<img src="https://img.icons8.com/3d-fluency/94/rocket.png" width="44"/>
-<br/><br/>
-<b style="font-size:24px">500+</b>
-<br/><sub><b>Projects Delivered</b></sub>
-<br/><br/>
-</td>
-<td align="center" width="25%">
-<br/>
-<img src="https://img.icons8.com/3d-fluency/94/calendar.png" width="44"/>
-<br/><br/>
-<b style="font-size:24px">12+</b>
-<br/><sub><b>Years Experience</b></sub>
-<br/><br/>
-</td>
-<td align="center" width="25%">
-<br/>
-<img src="https://img.icons8.com/3d-fluency/94/globe.png" width="44"/>
-<br/><br/>
-<b style="font-size:24px">10+</b>
-<br/><sub><b>Countries Served</b></sub>
-<br/><br/>
-</td>
-<td align="center" width="25%">
-<br/>
-<img src="https://img.icons8.com/3d-fluency/94/classroom.png" width="44"/>
-<br/><br/>
-<b style="font-size:24px">200+</b>
-<br/><sub><b>Students Trained</b></sub>
-<br/><br/>
-</td>
-</tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>&#129513; Enterprise platforms</h3>
+      Full-stack .NET and Node.js: admin panels, role-based access, dashboards.
+    </td>
+    <td width="33%" valign="top">
+      <h3>&#129302; AI and automation</h3>
+      n8n workflows, LLM agents and AI integration for smart content and decision systems.
+    </td>
+    <td width="33%" valign="top">
+      <h3>&#128274; Secure API design</h3>
+      REST and GraphQL with auth, rate limiting, CSP headers and encryption.
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>&#128202; Analytics and monitoring</h3>
+      Real-time dashboards, KPI tracking, performance metrics and alerts.
+    </td>
+    <td width="33%" valign="top">
+      <h3>&#127981; ERP and business systems</h3>
+      Custom ERP from scratch and Odoo: HR, inventory and finance modules.
+    </td>
+    <td width="33%" valign="top">
+      <h3>&#128241; Mobile apps and games</h3>
+      Flutter and Unity, shipped to Google Play and the App Store with Rui Codex.
+    </td>
+  </tr>
 </table>
 
-</div>
+## Apps and games I ship at Rui Codex
 
-<br/>
+I founded **[Rui Codex](https://ruicodex.com)**, a software engineering studio in Belgium. Besides client work, we design, publish
+and maintain our own titles: **39 apps and games on Google Play** at the latest count on our website.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<table>
+  <tr>
+    <td width="50%" align="center"><img src="docs/media/games-in-motion.gif" alt="Koi Drift, Pull and Plunder and Factory Legacy running on phones"><br><sub>Games: Koi Drift, Pull &amp; Plunder, Factory Legacy (real gameplay)</sub></td>
+    <td width="50%" align="center"><img src="docs/media/apps-in-motion.gif" alt="PixelCut Pro, EveryTranslate and Florea running on phones"><br><sub>Apps: PixelCut Pro, EveryTranslate, Florea (real screen recordings)</sub></td>
+  </tr>
+</table>
 
-<br/>
+<table>
+  <tr>
+    <td width="33%" valign="top"><img src="docs/media/apps/koi-drift.png" width="56" align="left" alt="Koi Drift icon">&nbsp;<b>Koi Drift</b><br>&nbsp;A calm koi pond puzzle<br>&nbsp;<a href="https://play.google.com/store/apps/details?id=com.ruicodex.koidrift">Google Play</a></td>
+    <td width="33%" valign="top"><img src="docs/media/apps/pull-plunder.png" width="56" align="left" alt="Pull and Plunder icon">&nbsp;<b>Pull &amp; Plunder</b><br>&nbsp;Pin-pull physics puzzles<br>&nbsp;<a href="https://play.google.com/store/apps/details?id=com.ruicodex.pullplunder">Google Play</a></td>
+    <td width="33%" valign="top"><img src="docs/media/apps/factory-legacy.png" width="56" align="left" alt="Factory Legacy icon">&nbsp;<b>Factory Legacy: Idle Empire</b><br>&nbsp;Build your factory empire<br>&nbsp;<a href="https://play.google.com/store/apps/details?id=com.ruicodex.IdleFactoryTycoon">Google Play</a> · <a href="https://apps.apple.com/us/app/factory-legacy-idle-empire/id6777828643">App Store</a></td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="docs/media/apps/pixelcut-pro.png" width="56" align="left" alt="PixelCut Pro icon">&nbsp;<b>PixelCut Pro</b><br>&nbsp;AI background remover<br>&nbsp;<a href="https://play.google.com/store/apps/details?id=com.ruicodex.pixelcut_pro">Google Play</a> · <a href="https://apps.apple.com/us/app/pixelcut-pro-ai-bg-remover/id6777847573">App Store</a></td>
+    <td valign="top"><img src="docs/media/apps/everytranslate.png" width="56" align="left" alt="EveryTranslate icon">&nbsp;<b>EveryTranslate</b><br>&nbsp;Text, documents and voice, many languages at once<br>&nbsp;<a href="https://play.google.com/store/apps/details?id=com.everytranslate.app">Google Play</a></td>
+    <td valign="top"><img src="docs/media/apps/florea.png" width="56" align="left" alt="Florea icon">&nbsp;<b>Florea</b><br>&nbsp;Journal and planner<br>&nbsp;<a href="https://play.google.com/store/apps/details?id=com.ruicodex.florea">Google Play</a></td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="docs/media/apps/star-harbor.png" width="56" align="left" alt="Star Harbor icon">&nbsp;<b>Star Harbor</b><br>&nbsp;Build a space station that really works<br>&nbsp;<a href="https://play.google.com/store/apps/details?id=com.ruicodex.starharbor">Google Play</a></td>
+    <td valign="top"><img src="docs/media/apps/standby-clock.png" width="56" align="left" alt="StandBy Clock icon">&nbsp;<b>StandBy Clock</b><br>&nbsp;Bedside clock and photo display<br>&nbsp;<a href="https://play.google.com/store/apps/details?id=com.altinayselman.standbyclock">Google Play</a></td>
+    <td valign="top"><img src="docs/media/apps/candy-chaos.png" width="56" align="left" alt="Candy Chaos icon">&nbsp;<b>Candy Chaos</b><br>&nbsp;Sort candies into matching boxes<br>&nbsp;<a href="https://play.google.com/store/apps/details?id=com.ruicodex.candychaos">Google Play</a> · <a href="https://apps.apple.com/us/app/candy-chaos-sweet-sort/id6779695174">App Store</a></td>
+  </tr>
+</table>
 
-<!-- EXPERIENCE -->
-<div align="center">
+<details>
+<summary><b>More titles</b> (Quiltvale, Lumen Loop, Ant Empire, Idle Defense and others)</summary>
 
-## 💼 &nbsp;Career Journey
+<br>
 
-</div>
+<table>
+  <tr>
+    <td width="33%" valign="top"><img src="docs/media/apps/quiltvale.png" width="48" align="left" alt="Quiltvale icon">&nbsp;<b>Quiltvale</b><br>&nbsp;<a href="https://play.google.com/store/apps/details?id=com.ruicodex.quiltvale">Google Play</a></td>
+    <td width="33%" valign="top"><img src="docs/media/apps/lumen-loop.png" width="48" align="left" alt="Lumen Loop icon">&nbsp;<b>Lumen Loop</b><br>&nbsp;<a href="https://play.google.com/store/apps/details?id=com.ruicodex.lumenloop">Google Play</a></td>
+    <td width="33%" valign="top"><img src="docs/media/apps/ant-empire.png" width="48" align="left" alt="Ant Empire icon">&nbsp;<b>Ant Empire</b><br>&nbsp;<a href="https://play.google.com/store/apps/details?id=com.ruicodex.ant_empire">Google Play</a></td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="docs/media/apps/idle-defense.png" width="48" align="left" alt="Idle Defense icon">&nbsp;<b>Idle Defense: Cosmic TD</b><br>&nbsp;<a href="https://play.google.com/store/apps/details?id=com.ruicodex.idledefense">Google Play</a></td>
+    <td valign="top"><img src="docs/media/apps/grandmas-kitchen.png" width="48" align="left" alt="Grandma's Kitchen icon">&nbsp;<b>Grandma's Kitchen</b><br>&nbsp;<a href="https://play.google.com/store/apps/details?id=com.ruicodex.grandmaskitchen">Google Play</a></td>
+    <td valign="top"><img src="docs/media/apps/gravity-block-flip.png" width="48" align="left" alt="Gravity Block Flip icon">&nbsp;<b>Gravity Block Flip</b><br>&nbsp;<a href="https://play.google.com/store/apps/details?id=com.ruicodex.gravity_block_flip">Google Play</a></td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="docs/media/apps/letslearn.png" width="48" align="left" alt="LetsLearn icon">&nbsp;<b>LetsLearn</b><br>&nbsp;<a href="https://play.google.com/store/apps/details?id=com.ruicodex.letslearn">Google Play</a></td>
+    <td valign="top"><img src="docs/media/apps/dietsem.png" width="48" align="left" alt="DietSem icon">&nbsp;<b>DietSem</b><br>&nbsp;<a href="https://play.google.com/store/apps/details?id=com.ruicodex.dietsem">Google Play</a></td>
+    <td valign="top"><img src="docs/media/apps/posterboost.png" width="48" align="left" alt="PosterBoost.ai icon">&nbsp;<b>PosterBoost.ai</b><br>&nbsp;<a href="https://play.google.com/store/apps/details?id=com.ruicodex.posterboost.ai">Google Play</a></td>
+  </tr>
+</table>
 
-<div align="center">
+<sub>The full catalogue is on the <a href="https://play.google.com/store/apps/dev?id=6565660224420086428">Google Play developer page</a>.</sub>
+
+</details>
+
+## Public builds
+
+Hackathon and challenge projects built in the open with the Rui Codex team, plus a small personal project:
+
+| Project | What it is |
+|---|---|
+| [**Hostwise**](https://github.com/RuiCodex-dev/hostwise) | An AI host that plans a dinner party for a group with different tastes, on Qloo's taste graph |
+| [**Scopecast**](https://github.com/RuiCodex-dev/scopecast) | Monte-Carlo fixed-price quotes for freelance developers, with a confidence level you choose |
+| [**Purser**](https://github.com/RuiCodex-dev/purser) | An AI treasurer for group events: PayPal Agent Toolkit and Gemini, with a mandate the agent can't break |
+| [**Causeway**](https://github.com/RuiCodex-dev/open-agent-causeway) | An agent that explains why, with evidence |
+| [**Invoice Airlock**](https://github.com/RuiCodex-dev/invoice-airlock) | Screens supplier emails with the Clocked API before they reach accounts payable |
+| [**Hearthnote**](https://github.com/RuiCodex-dev/hearthnote) | A private notebook for families caring for someone at home, on NVIDIA Nemotron |
+| [**WordRoom**](https://github.com/RuiCodex-dev/learn-ar-specs) | Learn Dutch de/het words on real-size kitchen objects, a Lens for Snap Specs |
+| [**Emmy PTX**](https://github.com/RuiCodex-dev/emmy-ptx) | An Emmy kernel IR to NVIDIA PTX compiler |
+| [**Nederlands-App**](https://github.com/altinayselman/Nederlands-App) | Browser mini-games for learning Dutch: match pictures, build sentences, listen and answer |
+
+## How I work
+
+The same five steps we use at Rui Codex, as described on [ruicodex.com](https://ruicodex.com):
+
+```mermaid
+flowchart LR
+    D["Discovery<br/>listen to the challenge,<br/>study current processes"] --> P["Planning<br/>architecture, milestones,<br/>a roadmap with deliverables"]
+    P --> B["Build<br/>two-week sprints,<br/>regular demos"]
+    B --> L["Launch<br/>testing, deployment,<br/>knowledge transfer"]
+    L --> S["Support<br/>maintenance, monitoring<br/>and iterative improvement"]
+    S -. "feedback" .-> B
+```
+
+## Tech arsenal
+
+| Area | Tools |
+|---|---|
+| Languages | C#, TypeScript, JavaScript, Python, Java, SQL, HTML5, CSS3, Shell, Dart |
+| Backend and frameworks | .NET 9 / ASP.NET Core, NestJS, Node.js, Express, SignalR, GraphQL, REST APIs |
+| Frontend and UI | React, Next.js, Tailwind CSS, Bootstrap, jQuery, Chart.js, GSAP |
+| Mobile and games | Flutter, Unity |
+| Databases | PostgreSQL, SQL Server, MongoDB, MySQL, Redis, Prisma |
+| DevOps and cloud | Azure, Docker, GitHub Actions, Nginx, Linux, Git |
+| ERP | Odoo |
+| AI and automation | OpenAI and Anthropic APIs, LLM agents, n8n |
+| Tools | Postman, VS Code, Visual Studio, Cursor |
+
+## Career journey
 
 | Year | Role | Company | Focus |
 |:----:|:-----|:--------|:------|
-| 🟣 **2024** | **Founder & CEO** | **Rui Codex** 🇧🇪 | Enterprise software for EU clients |
-| 🔴 **2023** | **Team Lead** | **Payolog** | FinTech solutions & architecture |
-| 🟠 **2022** | **CTO** | **MarQi Blinds** 🇺🇸 | Smart blinds tech, scalable systems |
-| 🟡 **2022** | **Director** | **Pointix Bilisim** | Multi-industry software development |
-| 🟢 **2021** | **Sr. Developer** | **iXiredu** | E-learning platform (ASP.NET Core) |
-| 🔵 **2017** | **Full Stack Dev** | **Star Grup** | ERP, HR, inventory & cost systems |
+| **2024** | **Founder & CEO** | **Rui Codex** (Belgium) | Enterprise software, AI automation, apps and games for EU clients |
+| **2023** | **Team Lead** | **Payolog** | FinTech solutions and architecture |
+| **2022** | **CTO** | **MarQi Blinds** (US) | Smart blinds tech, scalable systems |
+| **2022** | **Director** | **Pointix Bilisim** | Multi-industry software development |
+| **2021** | **Sr. Developer** | **iXiredu** | E-learning platform (ASP.NET Core) |
+| **2017** | **Full Stack Dev** | **Star Grup** | ERP, HR, inventory and cost systems |
 
-</div>
+<details>
+<summary><b>Education and certifications</b></summary>
 
-<br/>
+<br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+| University | Degree |
+|:---|:---|
+| **Marmara University** | Computer Software Engineering |
+| **National Defence University** | Industrial Engineering |
+| **Istanbul University** | Management Information Systems |
 
-<br/>
+**Certifications**
 
-<!-- EDUCATION -->
+- freeCodeCamp: Data Analysis with Python, Data Visualization, Machine Learning, Front End Libraries,
+  JavaScript Algorithms, Responsive Web Design, Scientific Computing
+- Microsoft: Software Developer
+- ISO 27001: Information Security
+- Google: SEO Optimization
+
+</details>
+
+## Let's work together
+
+I'm always open to **new projects**, **consulting** and **collaborations**. The quickest route is the contact page on
+[ruicodex.com/Contact](https://ruicodex.com/Contact), or [LinkedIn](https://www.linkedin.com/in/selman-a-23ab38140/).
+
+<table>
+  <tr>
+    <td width="68%"><img src="docs/media/shots/ruicodex-com-desktop.jpg" alt="ruicodex.com home page on desktop"></td>
+    <td width="32%" rowspan="2" align="center"><img src="docs/media/shots/ruicodex-com-mobile.jpg" alt="ruicodex.com home page on a phone" width="240"></td>
+  </tr>
+  <tr>
+    <td><img src="docs/media/shots/ruicodex-com-services.jpg" alt="ruicodex.com: what we do best, AI automation, custom software, Odoo and ERP"></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><sub>ruicodex.com, captured on desktop and phone.</sub></td>
+  </tr>
+</table>
+
+<sub>Most of my work lives in private repositories under NDA. What you see here is a fraction of what I build every day.</sub>
+
 <div align="center">
 
-## 🎓 &nbsp;Education
+<br>
 
-| | University | Degree |
-|:---:|:---|:---|
-| 🎓 | **Marmara University** | Computer Software Engineering |
-| 🎖️ | **National Defence University** | Industrial Engineering |
-| 📊 | **Istanbul University** | Management Information Systems |
-
-</div>
-
-<br/>
-
-<!-- CERTIFICATIONS -->
-<div align="center">
-
-## 📜 &nbsp;Certifications
-
-![](https://img.shields.io/badge/freeCodeCamp-Data_Analysis_with_Python-0A0A23?style=for-the-badge&logo=freecodecamp)
-![](https://img.shields.io/badge/freeCodeCamp-Data_Visualization-0A0A23?style=for-the-badge&logo=freecodecamp)
-![](https://img.shields.io/badge/freeCodeCamp-Machine_Learning-0A0A23?style=for-the-badge&logo=freecodecamp)
-![](https://img.shields.io/badge/freeCodeCamp-Front_End_Libraries-0A0A23?style=for-the-badge&logo=freecodecamp)
-![](https://img.shields.io/badge/freeCodeCamp-JS_Algorithms-0A0A23?style=for-the-badge&logo=freecodecamp)
-![](https://img.shields.io/badge/freeCodeCamp-Responsive_Design-0A0A23?style=for-the-badge&logo=freecodecamp)
-![](https://img.shields.io/badge/freeCodeCamp-Scientific_Computing-0A0A23?style=for-the-badge&logo=freecodecamp)
-![](https://img.shields.io/badge/Microsoft-Software_Developer-5C2D91?style=for-the-badge&logo=microsoft)
-![](https://img.shields.io/badge/ISO-27001_Info_Security-2563EB?style=for-the-badge&logo=iso)
-![](https://img.shields.io/badge/Google-SEO_Optimization-34A853?style=for-the-badge&logo=google)
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-
-<!-- CONNECT -->
-<div align="center">
-
-## 🤝 &nbsp;Let's Work Together
-
-<br/>
-
-I'm always open to **new projects**, **consulting**, and **collaborations**.
-
-<br/>
-
-<a href="mailto:info@ruicodex.com">
-  <img src="https://img.shields.io/badge/📧_Hire_Me-FF6B6B?style=for-the-badge&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://ruicodex.com">
-  <img src="https://img.shields.io/badge/🌐_ruicodex.com-6c5ce7?style=for-the-badge&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://ruicodex.com/Contact">
-  <img src="https://img.shields.io/badge/💼_Request_Quote-00b894?style=for-the-badge&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<sub>⚡ Most of my work lives in <b>private repositories</b> under NDA. What you see here is a fraction of what I build every day.</sub>
-
-<br/><br/>
-
-<!-- SNAKE -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/altinayselman/altinayselman/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/altinayselman/altinayselman/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/altinayselman/altinayselman/output/github-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/altinayselman/altinayselman/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/altinayselman/altinayselman/output/github-snake.svg">
+  <img alt="Contribution graph eaten by a snake" src="https://raw.githubusercontent.com/altinayselman/altinayselman/output/github-snake-dark.svg" width="100%">
 </picture>
 
 </div>
 
-<br/>
+---
 
-<!-- COLORFUL FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,25:ee5a24,50:f368e0,75:6c5ce7,100:0abde3&height=150&section=footer&animation=fadeIn" width="100%" />
+<sub>&copy; 2026 Selman Altinay. All rights reserved. Built by <a href="https://ruicodex.com">Rui Codex</a>.<br>
+Media credits: every app and website screen in the showreel, GIFs and screenshots is a real capture of live Rui Codex apps and of ruicodex.com; app icons come from the live Google Play listings; no generated imagery is used on this page. Narration: Kokoro TTS (voice af_heart), rendered locally. Music and sound effects were synthesised in code. Video built with HyperFrames. The contribution snake is generated by this repo's own workflow (Platane/snk).</sub>
